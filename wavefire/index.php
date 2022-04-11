@@ -1,6 +1,7 @@
 
 <?php
 require ("/entities/cart.php");
+require ("/entities/cart.php");
 
  $data = array();
 $errors = array();
