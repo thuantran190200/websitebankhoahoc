@@ -1,9 +1,7 @@
 <?php
-<<<<<<< HEAD
 require("/entities/cart.php");
 require __DIR__ . '/entities/cart.php';
-=======
->>>>>>> cc4264c20fb869ddbcd3abf4c3376d4f99a3ebbf
+
 
 $data = array();
 $errors = array();
