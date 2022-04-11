@@ -8,7 +8,7 @@ $errors = array();
 $is_update_action = false;
 
   $is_update_action = true;
-
+<p>hello các bạn</p>
   
 if (!empty($_POST['submitCart'])){
 $data['pro_id'] = isset($_POST['ID']) ? $_POST['ID'] : '';
